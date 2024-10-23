@@ -8,4 +8,4 @@ mufengkefu@gmail.com
 
 ## 永久更新地址
 
-地址发布页：[mufeng.cc]https://mufeng.cc
+地址发布页：[mufeng.cc](https://mufeng.cc/)
